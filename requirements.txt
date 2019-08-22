@@ -1,0 +1,6 @@
+matplotlib
+ipyvolume
+numpy==1.15.4
+pytools
+-e git+https://github.com/pypr/compyle#egg=compyle
+-e git+https://github.com/pypr/pysph#egg=pysph
