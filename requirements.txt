@@ -2,6 +2,5 @@ ipympl
 matplotlib
 ipyvolume
 numpy
-pytools
 -e git+https://github.com/pypr/compyle#egg=compyle
 -e git+https://github.com/pypr/pysph#egg=pysph
